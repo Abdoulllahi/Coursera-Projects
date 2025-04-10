@@ -1,3 +1,6 @@
 [submodule "submodules/node-js-backend"]
 	path = submodules/node-js-backend
 	url = https://github.com/Abdoulllahi/node-js-restful-api-backend-app.git
+[submodule "online-auction-expressjs"]
+	path = online-auction-expressjs
+	url = https://github.com/Abdoulllahi/online-auction-expressjs
